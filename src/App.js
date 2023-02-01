@@ -5,7 +5,6 @@ import PageHeader from "./components/PageHeader";
 import ButtonComponent from "./sandbox/data-display/ButtonComponent";
 import CardComponent from "./sandbox/data-display/CardComponent";
 import TypographyComponent from "./sandbox/data-display/TypographyComponent";
-import LoopComponent from "./sandbox/Loop/LoopComponent";
 import ObjectPropParent from "./sandbox/props/ObjectPropParent";
 import StringPropParent from "./sandbox/props/StringPropParent";
 
